@@ -261,18 +261,6 @@ python scripts/fixed_membership_inference_engine.py
 3. **Check GPU**: `torch.cuda.is_available()` should return `True` for GPU
 4. **Validate data**: Ensure datasets downloaded correctly in `data/`
 
-## 📚 Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{gimba2025posterior,
-  title={Evaluating the Effectiveness of Posterior Truncation in Mitigating Membership Inference Attacks on Public Image Classification Models},
-  author={Gimba, Jenom John},
-  journal={School of Computing, National College of Ireland, AI/ML in Cybersecurity},
-  year={2025}
-}
-```
 
 ## 🤝 Contributing
 
